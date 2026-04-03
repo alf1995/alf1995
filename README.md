@@ -1,6 +1,6 @@
 <!-- Banner opcional -->
 <h1 align="center">👋 Hola, soy Luis</h1>
-<h3 align="center">🚀 Senior Full Stack Developer | 7+ años construyendo soluciones escalables</h3>
+<h3 align="center">🚀 Full Stack Developer | 7+ años construyendo soluciones escalables</h3>
 
 <p align="center">
   💻 Especialista en Backend <br>
